@@ -39,7 +39,7 @@ https://public.tableau.com/app/profile/akash.kumar.dineshkumar/viz/533project/Da
 Public dataset sourced from Kaggle containing **match-level and performance data** from the 2019 ICC Cricket World Cup.
 
 🔗 Dataset Source:  
-https://www.kaggle.com/datasets/venky73/icc-cricket-world-cup-2019-analysis
+https://www.kaggle.com/code/venky73/icc-cricket-world-cup-2019-analysis/input?select=ODI_Match_Totals.csv
 
 **Key attributes include:**
 - Team & opposition
