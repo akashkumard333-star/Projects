@@ -14,7 +14,19 @@ It is designed for **fans, analysts, coaches, and data enthusiasts** to explore 
 https://public.tableau.com/app/profile/akash.kumar.dineshkumar/viz/533project/Dashboard1
 
 ---
+---
 
+## 📊 Tableau Dashboard Preview
+
+_Interactive overview of team performance, venues, match strategies, and outcomes from the ICC Cricket World Cup 2019._
+
+<img
+  width="940"
+  height="529"
+  alt="ICC World Cup 2019 Tableau Dashboard"
+  src="https://raw.githubusercontent.com/akashkumard333-star/akashkumard333/ae606f95889e2f604cec21658dd45963a7ee692d/assets/Dashboard.png"
+/>
+---
 ## 📊 Key Deliverables
 
 ### **1. Interactive Tableau Dashboard**
