@@ -26,6 +26,18 @@ _Interactive overview of team performance, venues, match strategies, and outcome
   alt="ICC World Cup 2019 Tableau Dashboard"
   src="https://raw.githubusercontent.com/akashkumard333-star/akashkumard333/ae606f95889e2f604cec21658dd45963a7ee692d/assets/Dashboard.png"
 />
+
+## 🧠 Project Planning & Design (Mural)
+
+This Mural board captures the **end-to-end planning process** for the dashboard, including:
+- Phase-wise project planning
+- Question formulation and analytical goals
+- Visualization selection and chart rationale
+- Dashboard layout and interaction design
+
+🔗 **Mural Board:**  
+https://app.mural.co/t/team133626/m/team133626/1744656745625/73ea577e98524dd9edb60a81f23e1ae5a9e44445?sender=u326fe82ee130dabcffbc7325
+
 ---
 ## 📊 Key Deliverables
 
